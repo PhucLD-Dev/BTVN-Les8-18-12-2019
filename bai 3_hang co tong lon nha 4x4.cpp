@@ -1,5 +1,5 @@
 #include<stdio.h>
-void hanglonnhat(int a[4][4]){
+void hanglonnhat(int a[][4]){
 	int smax=0; int s=0; 
 	for(int i=0;i<4;i++)
 	{
