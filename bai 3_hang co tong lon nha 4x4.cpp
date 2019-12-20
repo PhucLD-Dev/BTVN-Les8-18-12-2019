@@ -27,4 +27,5 @@ int main(){
 	int m[4][4]={5,6,888,6,9,8,7,4,11,22,55,65,35,24,0,69} ;
 	inmang (m);
 	hanglonnhat(m) ;
+	return 0;
 } 
