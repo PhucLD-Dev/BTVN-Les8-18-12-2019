@@ -12,7 +12,8 @@ int  timsofibonacci(int n){
 		x1=x2;
 		x2=x3;
 		x3=x2+x1;}
-	printf("so thu %d = %d",n,x3) ;} 
+	printf("so thu %d = %d",n,x3) ;}
+	return x3;
 }
 int main(){
 	int k; 
